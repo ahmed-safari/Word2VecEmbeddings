@@ -5,11 +5,12 @@ This interactive project leverages advanced NLP techniques—Word2Vec and t‑SN
 ## 🚀 Live Streamlit App
 
 Experience the live version of the app here:  
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://word2vecembeddings.streamlit.app)
 
 ## 📖 Project Overview
 
-This project was developed for the **DSAI4201 Selected Topics in Data Science** course taught by **Dr. Uzair Ahmad**. The goal was to create a robust tool for exploring NLP concepts through interactive visualizations and document retrieval. _AI tools were used to enhance the quality of the solution._
+This project was developed for the **DSAI4201 Selected Topics in Data Science** course taught by **[Dr. Uzair Ahmad](https://github.com/DrUzair)**. The goal was to create a robust tool for exploring NLP concepts through interactive visualizations and document retrieval. _AI tools were used to enhance the quality of the solution._
 
 If you’re interested in the original code in notebook format, please check out the [Notebook.ipynb](Notebook.ipynb) file included in the repository.
 
