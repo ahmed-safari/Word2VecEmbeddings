@@ -6,7 +6,7 @@ This interactive project leverages advanced NLP techniques—Word2Vec and t‑SN
 
 Experience the live version of the app here:  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://word2vecembeddings.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://udst-policy-rag.streamlit.app)
 
 ## 📖 Project Overview
 
